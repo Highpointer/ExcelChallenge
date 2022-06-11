@@ -6,8 +6,8 @@ The purpose of this analysis was determine how different theatrical fundraising 
 and fundraising goals. The results will include statistical and graphical analysis of theather outcomes relative to launch dates,
 and fundraising outcomes relative to fundraising goals.
 
-![first_image](.\Resources\Outcomes_vs_Goals.png)
-![second_image](.\Resources\Theater_Outcomes_vs_Launch.png)
+![first_image](Resources\Outcomes_vs_Goals.png)
+![second_image](Resources\Theater_Outcomes_vs_Launch.png)
 How to Perform the Analysis
 
 To perform the analysis of theater outcomes relative to launch dates, I made a pivot table of the data, with Outcomes in the columns
